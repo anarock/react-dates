@@ -16,4 +16,4 @@ export default function CalendarWeek({ children }) {
   );
 }
 
-CalendarWeek.propTypes = propTypes;
+// CalendarWeek.propTypes = propTypes;
